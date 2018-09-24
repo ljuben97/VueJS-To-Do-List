@@ -20,8 +20,8 @@ You can check an activity by simply clicking on it. The activity will be marked 
 
 ### Remove an activity
 
-To remove an activity hover on the 'x' icon next to the activity you want to be removed. The 'x' icon will turn red and all you have to is click on it. The activity will be removed.
+To remove an activity hover over the 'x' icon next to the activity you want to be removed. The 'x' icon will turn red and all you have to do is click on it. The activity will be removed.
 
 #### Note
 
-**The CSS styling code was _not_ done by me. All that I can be accounted for is the HTML code and the Vue scripts**
+**The CSS styling code was _NOT_ done by me. All that I can be accounted for is the HTML code and the Vue scripts**
