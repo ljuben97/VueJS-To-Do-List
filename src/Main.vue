@@ -3,6 +3,7 @@
     <Notepad>
 
     </Notepad>
+	<br/>
   </div>
 </template>
 
@@ -27,13 +28,13 @@
     background:linear-gradient(0deg,rgba(255,0,20,0.3),rgba(255,0,150,0.3)),url("../Images/Backgroud.png");
     background-size:cover;
 
-    /* Full height */
-    height: 100%;
-
     /* Center and scale the image nicely */
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+	
+    background-attachment: fixed;
+
+   
   }
 
 </style>
