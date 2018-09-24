@@ -1,18 +1,27 @@
-# to-do-list
+# A VueJS To-Do List App
 
-> A Simple To-Do List
+![alt text](https://raw.githubusercontent.com/ljuben97/VueJS-To-Do-List/master/screenshots/Capture.PNG)
 
-## Build Setup
+This is a simple VueJS app that allows you to modifly a to do list.
 
-``` bash
-# install dependencies
-npm install
+Project's features:
 
-# serve with hot reload at localhost:8080
-npm run dev
+- Add a to-do activity
+- Check or uncheck the activity as finished
+- Remove an activity
 
-# build for production with minification
-npm run build
-```
+### Adding an activity
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Just type the activity in the text field and when you're done typing either click the Add button or press enter. The activity will automatically be added at the bottom of the list. When done the text field will be automatically cleared.
+
+### Checking an activity
+
+You can check an activity by simply clicking on it. The activity will be marked with a line for you to know if its checked. To uncheck it just click the checked activity again.
+
+### Remove an activity
+
+To remove an activity hover on the 'x' icon next to the activity you want to be removed. The 'x' icon will turn red and all you have to is click on it. The activity will be removed.
+
+#### Note
+
+**The CSS styling code was _not_ done by me. All that I can be accounted for is the HTML code and the Vue scripts**
