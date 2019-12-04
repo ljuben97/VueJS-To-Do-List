@@ -1,8 +1,8 @@
-# A VueJS To-Do List App
+# A To-Do List App
 
 ![alt text](https://raw.githubusercontent.com/ljuben97/VueJS-To-Do-List/master/screenshots/Capture.PNG)
 
-This is a simple VueJS app that allows you to modifly a to do list.
+This is a simple React and VueJS app that allows you to modifly a to do list.
 
 Project's features:
 
